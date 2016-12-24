@@ -17,10 +17,10 @@
 <resources>
     <color name="white">#fafafa</color>
     <color name="black">#212121</color>
-    <color name="primary">#424242</color>
-    <color name="primary_dark">#212121</color>
+    <color name="primary">#0083d0</color>
+    <color name="primary_dark">#006098</color>
     <color name="accent">#1b5e20</color>
-    <color name="floating_action_button_touch_tint">#388e3c</color>
+    <color name="floating_action_button_touch_tint">#2c3e50</color>
     <color name="trasparent">#00000000</color>
 
 
